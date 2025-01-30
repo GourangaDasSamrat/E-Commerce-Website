@@ -12,6 +12,10 @@ Watch the video walkthrough of the project to see it in action!
 
 
 
+https://github.com/user-attachments/assets/2ab78f31-f5d0-4e29-97fa-54fb72f502b0
+
+
+
 ---
 
 ## 🚀 Features
