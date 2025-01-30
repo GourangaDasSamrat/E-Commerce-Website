@@ -37,15 +37,13 @@ https://github.com/user-attachments/assets/2ab78f31-f5d0-4e29-97fa-54fb72f502b0
 
 Here's a quick overview of the project's file structure:
 
-📁 Santa-Shop-Website
-├── 📁 Assets
-│   ├── 📁 fontawesome (Icons)
-│   ├── 📁 imag (Product images and graphics)
-├── 📁css
-│   ├── style.css
+📁 E-commerce Website/
 ├── index.html
-└── README.md
-
+└── assets/
+    ├── img/
+    └── fontawesome/
+└── css/
+    └── style.css
 ---
 
 ## ⚡ Quick Start
