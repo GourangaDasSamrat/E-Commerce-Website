@@ -41,7 +41,6 @@ Here's a quick overview of the project's file structure:
 ├── index.html
 └── assets/
     ├── img/
-    └── fontawesome/
 └── css/
     └── style.css
 ---
