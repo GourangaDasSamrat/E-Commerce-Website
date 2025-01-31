@@ -43,6 +43,7 @@ Here's a quick overview of the project's file structure:
     ├── img/
 └── css/
     └── style.css
+### note : You can font awesome cdn for download it in your device.In my case i use localy but I can't upload font awesome folder in this repository.
 ---
 
 ## ⚡ Quick Start
