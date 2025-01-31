@@ -1,6 +1,6 @@
 # 🈺 E-commerce Website
 
-Welcome to **E-commerce Website**! This is a festive-themed e-commerce website designed to bring the holiday spirit alive. Whether you're shopping for gifts or looking for Christmas inspiration, Santa Shop has got you covered!
+Welcome to **E-commerce Website**! This is a festive-themed e-commerce website designed to bring the holiday spirit alive. 
 
 🌟 **Live Demo**
 Check out the live version of the website: [E-commerce Website](https://ecommercesitebygouranga.tiiny.site)
