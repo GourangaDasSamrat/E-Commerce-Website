@@ -3,7 +3,7 @@
 Welcome to **E-commerce Website**! This is a festive-themed e-commerce website designed to bring the holiday spirit alive. 
 
 🌟 **Live Demo**
-Check out the live version of the website: [E-commerce Website](https://ecommercesitebygouranga.tiiny.site)
+Check out the live version of the website: [E-commerce Website](https://e-commerce-website-xi-coral.vercel.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
