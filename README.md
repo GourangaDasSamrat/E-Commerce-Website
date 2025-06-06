@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/dtjnYgBz/undraw-shopping-app-flsj.png" alt="E-commerce Banner" width="600px"/>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GourangaDasSamrat/E-Commerce-Website/graphs/commit-activity)
