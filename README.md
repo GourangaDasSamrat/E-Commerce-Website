@@ -35,7 +35,13 @@ A modern, responsive e-commerce platform crafted with clean code and exceptional
 ## ✨ Demo
 
 <div align="center">
-  <p><i>Demo video coming soon...</i></p>
+
+
+https://github.com/user-attachments/assets/4f971a6d-0ddb-4237-945e-01b2c8839638
+
+
+
+  
 </div>
 
 ## 🚀 Features
